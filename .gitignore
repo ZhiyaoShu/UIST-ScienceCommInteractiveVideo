@@ -15,6 +15,7 @@
 *.vrb
 *.xdv
 *.dvi
+*.cut
 *.synctex(busy)
 /main.pdf
 /main-review.pdf
